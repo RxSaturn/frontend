@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "link": "#event",
+      "key": "event-anchor"
+    },
+    {
+      "link": "#info",
+      "key": "info-anchor"
+    },
+    {
+      "link": "#contact",
+      "key": "contact-anchor"
+    },
+    {
+      "link": "/validar",
+      "key": "validate-certificate"
+    }
+  ]
+}
